@@ -1,0 +1,7 @@
+H:\KünstlicheIntelligenz\bin\Debug\KünstlicheIntelligenz.exe.config
+H:\KünstlicheIntelligenz\bin\Debug\KünstlicheIntelligenz.exe
+H:\KünstlicheIntelligenz\bin\Debug\KünstlicheIntelligenz.pdb
+H:\KünstlicheIntelligenz\obj\Debug\KünstlicheIntelligenz.csproj.AssemblyReference.cache
+H:\KünstlicheIntelligenz\obj\Debug\KünstlicheIntelligenz.csproj.CoreCompileInputs.cache
+H:\KünstlicheIntelligenz\obj\Debug\KünstlicheIntelligenz.exe
+H:\KünstlicheIntelligenz\obj\Debug\KünstlicheIntelligenz.pdb
